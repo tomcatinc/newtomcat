@@ -1,0 +1,6 @@
+{
+  "name": "Tomcat | Web Development & Enterprise Logistics",
+  "description": "Minimalist custom web development solutions, logistics tech services, client portal, secure file sharing, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
